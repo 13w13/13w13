@@ -10,9 +10,11 @@ Built a lot of dashboards. Fell into the agentic engineering trap.
 | Project | Type | Status | What & why |
 |---------|------|--------|------------|
 | [humanitarian-secondary-data](https://github.com/13w13/humanitarian-secondary-data) | Humanitarian | Active | 17 API clients for crisis data. Vision: couple with LLM skills to query humanitarian data in natural language |
-| [powerbpy](https://github.com/13w13/powerbpy) | Humanitarian | Active | Power BI dashboards from Python. Vision: describe what you need, get a dashboard generated and reviewed by an agentic loop |
-| OCR paper forms | Humanitarian | Active | Digitizing multilingual handwritten forms offline. Can't use cloud APIs — personal data + no connectivity. Challenge: local models on limited hardware |
+| Paper forms | Humanitarian | In progress | Reading a photo of a handwritten paper form into a digital form, with a person who checks every value. A data challenge is likely to follow |
 | LLM skills for humanitarian IM | Humanitarian | Active | XLSForm, MEAL, mapping, data analysis — LLM-agnostic .md files. Open source planned |
-| Faim d'Art | Personal | Paused — will get back to it when more time after work | A Shazam for paintings. BE&FE done. Mockup working. Need to fine-tuning DinoV2, exploring DinoV3 |
+| Faim d'Art | Personal | In progress | A Shazam for paintings: recognize a painting from a photo and keep it in "My museum". Free and open, built on Wikidata and public-domain images from Wikimedia Commons. Fine-tuning DinoV2, exploring DinoV3 |
+| [weiss-gruber.art](https://www.weiss-gruber.art) | Personal | Live | A catalogue raisonné for Jeannette Weiss Gruber, French stained glass artist ([code](https://github.com/13w13/weiss-gruber)) |
+
+How I work with AI, and where I draw the line: [ai-transparency](https://github.com/13w13/ai-transparency).
 
 If any of this resonates — especially the hard ones — contributions, ideas, and GPU time welcome.
